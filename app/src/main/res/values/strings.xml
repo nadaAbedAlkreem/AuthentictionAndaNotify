@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AuthenticationNotify</string>
+
+
+    <string name="profile">الصفحة الشخصية</string>
+
+
+    <string name="logIn">Login</string>
+    <string name="userName">user name</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="phoneNumber">phone number</string>
+    <string name="address">address</string>
+    <string name="birthDate">birth daye</string>
+    <string name="signUp">sign up</string>
+    <string name="ifNotSignIn">if not have a account</string>
+
+    <string name="haveAccount">are you have account</string>
+    <string name="makeAccount">sign up</string>
+    <string name="ifNotLogIn"></string>
+</resources>
